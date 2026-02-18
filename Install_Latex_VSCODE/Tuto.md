@@ -17,7 +17,7 @@ Site para instalação do Tex Live: https://www.tug.org/texlive/
 
 2. Execute o arquivo baixado como administrado, clique em next e depois install. É muito importante que esteja com acesso a internet!
 ![alt text](Imagens/image-1.png)
-![alt text](Imagens/image-2.png)
+![alt text](Imagens/Executar_Live_Tex.png)
 
 3. Escolha onde deve ficar instalados os pacotes, eles podem ocupar bastante espaço. Essa etapa é bem demorada e pode levar horas para que os arquivos sejam baixados.
 
