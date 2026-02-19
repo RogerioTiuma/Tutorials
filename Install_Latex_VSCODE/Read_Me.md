@@ -15,7 +15,7 @@ Site para instalação do Tex Live: https://www.tug.org/texlive/
 
 1. Se certifique que qualquer bloqueador (como antivirus ou TinyWall) ou firewall não bloqueie o acesso a internet desse arquivo.
 
-2. Execute o arquivo baixado como administrado, clique em next e depois install. É muito importante que esteja com acesso a internet!
+2. Execute o arquivo baixado como administrador, clique em next e depois install. É muito importante que esteja com acesso a internet!
 
 ![alt text](Imagens/Executar_Live_Tex.png)
 
@@ -60,3 +60,8 @@ NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
 3. Vá em extensões onde é indicado pelo número 1 na imagem, procure por Latex Workshop (Numeração 2) e instale a extensão (Numeração 3).
 
 ![alt text](Imagens/Install_LatexWorkshop.png)
+
+4. Deve aparecer o ícone "Tex" no canto esquerdo, caso não apareça feche o VS Code e abra novamente.
+
+
+# 4. Verificando se o latex está funcionando corretamente
