@@ -63,5 +63,7 @@ NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
 
 4. Deve aparecer o ícone "Tex" no canto esquerdo, caso não apareça feche o VS Code e abra novamente.
 
+![alt text](Imagens/Verificação.png)
+
 
 # 4. Verificando se o latex está funcionando corretamente
