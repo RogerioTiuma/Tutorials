@@ -2,7 +2,7 @@
 
 ## Baixando o Tex Live
 
-É recomendável a instalação do Tex Live para que não ocorra erros. É possível usar o MikTex ou TinyTex, mas esses versionadores podem causar erros.
+É recomendável a instalação do Tex Live para que não ocorra erros. É possível usar o MikTex ou TinyTex, mas esses versionadores podem causar erros. Se você tentar instalar outros ou tentar reaproveitar algum outro versionador de Latex terá problemas!
 
 Site para instalação do Tex Live: https://www.tug.org/texlive/
 
@@ -30,9 +30,25 @@ Essa etapa serve para instalar o VS Code, ele já pode estar instalado no seu co
 
 1. Acesse o site: https://anaconda.com/app/
 2. Crie uma conta, essa etapa é bem rápida se usar sua conta google e clicar em "skip" nas opções após criar a conta.
-3. O Anaconda Dristribution. 
+3. Clique no Anaconda Dristribution. 
 
 ![alt text](Imagens/Anaconda1.png)
 
-4. Baixe o instalador do Anaconda
+4. Baixe o instalador do Anaconda, esse download pode demorar.
 ![alt text](Imagens/Download_Anaconda.png)
+
+5. Execute o instalador como administrador.
+
+6. Escolha o diretório para realizar a instalação do Anaconda. Ele ocupa bastante espaço, então escolha com sabedoria. 
+NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
+
+![alt text](Imagens/Dir_Conda.png)
+
+7. Selecione todas as caixas de texto aqui e instale, essa instalação também pode demorar algumas horas.
+
+![alt text](Imagens\Config_Conda_Install.png)
+
+8. A primeira execução pode demorar bastante.
+
+# 3. Instalação do Latex no VS Code
+
