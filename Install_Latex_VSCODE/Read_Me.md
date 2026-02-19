@@ -52,3 +52,11 @@ NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
 
 # 3. Instalação do Latex no VS Code
 
+1. Abra o Anaconda Navigator como administrador.
+
+2. Clique no VS Code 
+![alt text](Imagens/Vs_Code_Open.png)
+
+3. Vá em extensões onde é indicado pelo número 1 na imagem, procure por Latex Workshop (Numeração 2) e instale a extensão (Numeração 3).
+
+![alt text](Imagens/Install_LatexWorkshop.png)
