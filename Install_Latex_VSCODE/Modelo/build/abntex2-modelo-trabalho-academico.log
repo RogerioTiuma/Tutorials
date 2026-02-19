@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.12)  18 FEB 2026 21:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.12)  18 FEB 2026 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/00_MODELOS/GITHUB/Tutorials/Install_Latex_VSCODE/Modelo/abntex2-modelo-trabalho-academico.tex
+**d:/00_MODELOS/GITHUB/Tutorials/Install_Latex_VSCODE/Modelo/abntex2-modelo-trabalho-academico
 (d:/00_MODELOS/GITHUB/Tutorials/Install_Latex_VSCODE/Modelo/abntex2-modelo-trabalho-academico.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
@@ -1028,14 +1028,14 @@ Overfull \hbox (20.47523pt too wide) in paragraph at lines 60--60
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 201.
 [38]
-<abntex2-modelo-img-grafico.pdf, id=419, 847.165pt x 314.17375pt>
+<abntex2-modelo-img-grafico.pdf, id=417, 847.165pt x 314.17375pt>
 File: abntex2-modelo-img-grafico.pdf Graphic file (type pdf)
 <use abntex2-modelo-img-grafico.pdf>
 Package pdftex.def Info: abntex2-modelo-img-grafico.pdf  used on input line 226.
 (pdftex.def)             Requested size: 423.58145pt x 157.08649pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 232.
-<abntex2-modelo-img-marca.pdf, id=426, 227.51701pt x 72.2695pt>
+<abntex2-modelo-img-marca.pdf, id=424, 227.51701pt x 72.2695pt>
 File: abntex2-modelo-img-marca.pdf Graphic file (type pdf)
 <use abntex2-modelo-img-marca.pdf>
 Package pdftex.def Info: abntex2-modelo-img-marca.pdf  used on input line 245.
@@ -1173,6 +1173,9 @@ Overfull \hbox (6.91217pt too wide) in paragraph at lines 705--708
 ]
 bibitemlist
 
+LaTeX Warning: Citation `NBR14724:2005' on page 61 undefined on input line 48.
+
+
 
 [61])
 
@@ -1227,26 +1230,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [74
 
-] (build/abntex2-modelo-trabalho-academico.ind
-
-[75]
-
-[76
-
 ]
-
-
-
-[77
-
-
-])
+No file abntex2-modelo-trabalho-academico.ind.
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 675.
 
+
+
+[75]
 \tf@lof=\write6
 \openout6 = `abntex2-modelo-trabalho-academico.lof'.
 
@@ -1256,29 +1250,33 @@ either increase the head height or redesign the header
 \tf@toc=\write8
 \openout8 = `abntex2-modelo-trabalho-academico.toc'.
 
-
+ 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (build/abntex2-modelo-trabalho-academico.aux (build/abntex2-modelo-include-comandos.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `abntex2-modelo-trabalho-academico.brf' has not changed.
 (rerunfilecheck)             Checksum: 7B2EB1A814378972760CDC045026C802;1495.
  ) 
 Here is how much of TeX's memory you used:
- 20065 strings out of 467801
- 329421 string characters out of 5436089
- 898161 words of memory out of 5000000
- 47911 multiletter control sequences out of 15000+600000
+ 20052 strings out of 467801
+ 329136 string characters out of 5436089
+ 897965 words of memory out of 5000000
+ 47905 multiletter control sequences out of 15000+600000
  738524 words of font info for 223 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,13n,107p,2097b,825s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,13n,107p,2093b,825s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsso12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on build/abntex2-modelo-trabalho-academico.pdf (79 pages, 729715 bytes).
+Output written on build/abntex2-modelo-trabalho-academico.pdf (77 pages, 728449 bytes).
 PDF statistics:
- 1163 PDF objects out of 1200 (max. 8388607)
- 1000 compressed objects within 10 object streams
- 224 named destinations out of 1000 (max. 500000)
- 64539 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 1125 PDF objects out of 1200 (max. 8388607)
+ 964 compressed objects within 10 object streams
+ 220 named destinations out of 1000 (max. 500000)
+ 64531 words of extra memory for PDF output out of 74296 (max. 10000000)
 

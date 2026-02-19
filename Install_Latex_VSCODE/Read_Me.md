@@ -22,7 +22,7 @@ Site para instalação do Tex Live: https://www.tug.org/texlive/
 ![alt text](Imagens/image-1.png)
 
 
-3. Escolha onde deve ficar instalados os pacotes, eles podem ocupar bastante espaço. Essa etapa é bem demorada e pode levar horas para que os arquivos sejam baixados.
+3. Escolha onde deve ficar instalados os pacotes, eles podem ocupar bastante espaço. Essa etapa é bem demorada e pode levar horas para que os pacotes básicos sejam baixados.
 
 # 2. Instalação do Anaconda
 
@@ -67,3 +67,26 @@ NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
 
 
 # 4. Verificando se o latex está funcionando corretamente
+
+Para essa etapa baixe o arquivo chamado "Modelo".
+
+1. Abra o Tex Live Manager como administrador
+
+![alt text](Imagens/open_Tex_Live.png)
+
+2. Procure pelo pacote Abntex2 (Numeração 1 na imagem), marque (Numeração 2) e instale (Numeração 3) na imagem. Guarde bem esse caminho para que no futuro você possa instalar outros pacotes que precise. Se ele já estiver instalado, ignore essa etapa e vá para o item abaixo.
+
+![alt text](Imagens/Install_Abntex2.png)
+
+3. Abra a pasta do modelo baixado com o VS Code.
+
+![alt text](Imagens/Abrir_VS_Code.png)
+
+4. Clique no arquivo "abntex2-modelo-trabalho-academico.tex"
+
+![alt text](Imagens/Executanto_Modelo.png)
+
+5. Clique em TEX no canto esquerdo do VS Code, depois clique em Receita pdflatex + bibtex + pdflatex x2 e espere. Quando terminar, clique na janela indicada na imagem na numeração 2. Se você conseguir visualizar o PDF, está funcionando.
+
+
+![alt text](Imagens/abrindo_Main.png)

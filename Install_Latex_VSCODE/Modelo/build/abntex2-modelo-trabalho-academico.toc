@@ -92,5 +92,3 @@
 \cftinsert {A}
 \contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase []{Fusce facilisis lacinia dui}}{75}{appendix.anexochapback.3}%
 \vspace {\cftbeforechapterskip }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\'Indice}{77}{section*.32}%
