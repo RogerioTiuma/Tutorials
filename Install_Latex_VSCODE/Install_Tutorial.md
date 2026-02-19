@@ -46,7 +46,7 @@ NÃO USE UM CAMINHO DE ARQUIVO COM ESPAÇO OU CARACTÉRES ESPECIAIS!!!!
 
 7. Selecione todas as caixas de texto aqui e instale, essa instalação também pode demorar algumas horas.
 
-![alt text](Imagens\Config_Conda_Install.png)
+![alt text](Imagens/Config_Conda_Install.png)
 
 8. A primeira execução pode demorar bastante.
 
