@@ -8,6 +8,7 @@ Site para instalação do Tex Live: https://www.tug.org/texlive/
 
 ![alt text](Imagens/image-3.png)
 
+Depois clique para baixar no link indicado abaixo.
 
 ![alt text](Imagens/image-4.png)
 
